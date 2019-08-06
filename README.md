@@ -10,9 +10,12 @@ De badge heeft een through-hole design en twee SMD designs op 1 printplaat. Alle
 
 Deze repository bevat 
 * [De design files voor Altium](design)
-* [De productiefiles van de PCB](output/PCB%20Production)
-* [Bill of Materials van de 3 circuits](output/BOM)
-* [Design in PDF formaat](output/Mini-Ph0xx_00.PDF)
+* [De productiefiles van de rev.00 PCB zoals gebruikt op de Maker Faire](output/Mini-Ph0xx_00/PCB%20Production)
+* [De productiefiles van de rev.01 PCB](output/Mini-Ph0xx_01/PCB%20Production)
+* [Bill of Materials van de 3 circuits](output/Mini-Ph0xx_00/BOM)
+* [Bill of Materials van de basic versie](output/Mini-Ph0xx_01/BOM)
+* [Design in PDF formaat van rev.00](output/Mini-Ph0xx_00/Mini-Ph0xx_00.PDF)
+* [Design in PDF formaat van rev.01](output/Mini-Ph0xx_01/Mini-Ph0xx_01.PDF)
 * [Handleiding](Handleiding/Mini%20Ph0xx%20handleiding.pdf)
 * [Iedereen kan solderen roll-up poster](Handleiding/Iedereen%20kan%20solderen.pdf)
 
